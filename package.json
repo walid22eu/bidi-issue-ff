@@ -1,0 +1,14 @@
+{
+  "name": "bidi-issue-ff",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "webdriverio": "9.0.0-alpha.369"
+  }
+}
